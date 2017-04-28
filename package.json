@@ -5,6 +5,7 @@
   "author": "ILYA ERSHOV <ershov.ilya@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "async": "^2.3.0"
+    "async": "^2.3.0",
+    "mysql": "^2.13.0"
   }
 }
