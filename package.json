@@ -1,5 +1,5 @@
 {
-  "name": "async-workflow",
+  "name": "nodejs-workflow",
   "version": "1.0.0",
   "main": "index.js",
   "author": "ILYA ERSHOV <ershov.ilya@gmail.com>",
